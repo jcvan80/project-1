@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+    body {
+        background-image: url("../images/wsj.jpeg");
+        opacity: 0.1;
+        background-size: cover;
+        opacity: 1;
+    }
+
+    #search-div {
+        position: absolute;
+        margin: auto;
+        top: 45%;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        width: 500px;
+        height: 200px; 
+        vertical-align: center;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    header {
+        font-weight: bold;
+        margin: auto;
+        color: white;
+        font-size: 44px;
+        font-family: 'Playfair Display', serif;
+    }
+    
+    form.form-inline {
+        margin: auto;
+        display: flex;
+        justify-content: center;
+    }
+    
+    input.form-control {
+        background-color: white;
+        margin-right: 5px;
+        font-size: 12px;
+        text-align: center;
+        width: 220px;
+    }
+
+    .btn {
+        background-color: black;
+        border: none;
+        font-size: 12px;
+    }

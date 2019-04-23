@@ -1,0 +1,87 @@
+.card {
+    padding: 15px;
+    height: 50%;
+}
+
+.card.text-center {
+    width: 66%;
+}
+
+.stockInfo .card {
+    float: left;
+    margin-left: 20px;
+}
+
+.links .card {
+    float: left;
+}
+
+.stockInfo .companyInfo {
+    padding: 15px;
+    margin-top: 25px;
+}
+
+#stock-div {
+    height: 65px;
+    padding-top: 22px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: lightgray;
+}
+
+a {
+    color: gray;
+}
+
+a.nav-link:hover {
+    color: darkgray;
+}
+
+.stockInfo .companyButton {
+    padding: 5px;
+}
+
+input.form-control.mr-sm-2 {
+    width: 400px;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    padding-left: 16px;
+    padding-top: 10px;
+}
+
+.btn {
+    background-color: black;
+    border: none;
+    color: white;
+}
+
+.btn:hover {
+    background-color: gray;
+}
+
+.list-group {
+    text-align: left;
+ }
+ 
+ h5 {
+    font-size: 1rem;
+ }
+ 
+ strong {
+    font-size: 1.2rem;
+ }
+
+ .bg-light {
+    background-color: #b0bec5 !important;
+ }
+
+ #cname {
+     background: gray
+ }
+
+ p {
+     color: gray;
+ }
